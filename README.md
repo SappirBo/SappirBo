@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sappir!
+## Hi there 👋!
 
 - 🔭 I’m currently working on [KeyboardSynthesizer](https://github.com/SappirBo/KeyboardSynthesizer), a fun synthesizer that activate from computer keyboard.
 - 🌱 I’m currently learning [Digital Signal Processing (DSP) From Ground Up](https://www.udemy.com/course/python-dsp/?couponCode=KEEPLEARNING) and [Asynchronous programming](https://www.udemy.com/course/eventloop/?couponCode=KEEPLEARNING).
