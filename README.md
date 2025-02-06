@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [KeyboardSynthesizer](https://github.com/SappirBo/KeyboardSynthesizer), a fun synthesizer that activate from computer keyboard.
+- 🌱 I’m currently learning [Digital Signal Processing (DSP) From Ground Up](https://www.udemy.com/course/python-dsp/?couponCode=KEEPLEARNING) and [Asynchronous programming](https://www.udemy.com/course/eventloop/?couponCode=KEEPLEARNING).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sappir-bohbot/), [Youtube](https://www.youtube.com/channel/UCmeVXQN1XKAC0-411d1AmhQ).
+
 <!--
 **SappirBo/SappirBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
